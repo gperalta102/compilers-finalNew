@@ -12,6 +12,6 @@ Recommended VISUAL STUDIO with Java Extension Pack
 ![Alt text](images/unzipped.png?raw=true "File")
 ![Alt text](images/openfolder.png?raw=true "Open")
 3. Press the run button
-![Alt text](images/run.png?raw=true "File")
+![Alt text](images/run.jpg?raw=true "File")
     and follow the prompts in the terminal
     ![Alt text](images/cmd.png?raw=true "File")
