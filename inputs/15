@@ -1,0 +1,18 @@
+// custom test case with 5 syntax
+// rules not covered above:
+// 17 (break), 20(%), 20(!=),
+// 20(!), 20 (||)
+// used rules: 1, 2, 3, 4, 5, 6,
+// 7, 8, 9, 12, 13, 14, 15, 16,
+// 18, 19, 20, 21, 22, 23, 24
+int cool_method {
+  int x;
+  x = 7;
+  boolean y;
+  boolean = false;
+  while (!y)
+    if (x % 2 != 1 || y)
+      break
+    else
+      x = x / 2;
+}
