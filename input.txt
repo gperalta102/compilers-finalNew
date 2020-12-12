@@ -1,0 +1,1 @@
+class id leftbrace int id leftparen rightparen leftbrace int id semicol id assign intconst semicol id leftparen intconst rightparen semicol return intconst semicol rightbrace void id leftparen int id rightparen leftbrace println leftparen stringconst comma id rightparen semicol rightbrace rightbrace 
